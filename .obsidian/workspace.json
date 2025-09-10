@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-08.md",
+                "file": "어드벤처디자인/계획서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-08"
+              "title": "계획서"
+            }
+          },
+          {
+            "id": "a388b5375fa10c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생활속 인공지능/일일노트/2025-09-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             }
           },
           {
-            "id": "24358410faf9798c",
+            "id": "6c98e26639e486a4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -114,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-08.md",
+                "file": "컴퓨터구조/일일노트/2025-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-08.md",
+                "file": "컴퓨터구조/일일노트/2025-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-08.md",
+                "file": "컴퓨터구조/일일노트/2025-09-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,21 +223,31 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false
     }
   },
-  "active": "4c65cc35209777b3",
+  "active": "a388b5375fa10c68",
   "lastOpenFiles": [
+    "생활속 인공지능/일일노트/2025-09-08.md",
+    "생활속 인공지능/일일노트/2025-09-10.md",
+    "생활속 인공지능/일일노트/2025-09-10.md",
+    "어드벤처디자인/계획서.md",
+    "어드벤처디자인/어드벤처디자인 OT.md",
+    "운영체제/일일노트/2025-09-09.md",
+    "운영체제/운영체제.md",
+    "운영체제/일일노트/일일노트.md",
+    "운영체제/일일노트/.md",
+    "운영체제/일일노트",
+    "운영체제/무제.md",
+    "컴퓨터구조/일일노트/2025-09-08.md",
+    "운영체제",
     "사진들/Pasted image 20250908122925.png",
     "사진들/스크린샷 2025-09-08 오후 4.19.22.png",
-    "어드벤처디자인/계획서.md",
     "사진들",
     "컴퓨터구조/일일노트",
     "생활속 인공지능/일일노트",
-    "생활속 인공지능/일일노트/2025-09-08.md",
-    "어드벤처디자인/어드벤처디자인 OT.md",
     "웹프로그래밍/자바스크립트.md",
-    "컴퓨터구조/일일노트/2025-09-08.md",
     "사진들/스크린샷 2025-09-08 오후 4.58.26.png",
     "사진들/스크린샷 2025-09-08 오후 4.53.40 1.png",
     "사진들/스크린샷 2025-09-08 오후 4.53.40.png",
@@ -231,7 +256,6 @@
     "사진들/스크린샷 2025-09-08 오후 4.33.15.png",
     "사진들/스크린샷 2025-09-08 오후 4.26.06.png",
     "사진들/스크린샷 2025-09-08 오후 4.10.21 2.png",
-    "사진들/스크린샷 2025-09-08 오후 4.10.21 1.png",
     "컴퓨터구조",
     "자바 프로그래밍/무제.md",
     "자바 프로그래밍/.md",

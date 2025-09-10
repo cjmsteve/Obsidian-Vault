@@ -39,9 +39,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//생활속 인공지능",
     "//etc.",
-    "//웹프로그래밍"
+    "//운영체제",
+    "//운영체제/운영체제/일일노트"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
