@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +227,7 @@
       "markdown-importer:마크다운 형식 불러오기 열기": false
     }
   },
-  "active": "9975b9fb0e164cf0",
+  "active": "a388b5375fa10c68",
   "lastOpenFiles": [
     "운영체제/일일노트/2025-09-09.md",
     "어드벤처디자인/계획서.md",
