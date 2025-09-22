@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹프로그래밍/일일노트/2025-09-22.md",
+                "file": "생활속 인공지능/일일노트/2025-09-22.md",
                 "mode": "source",
                 "source": false
               },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹프로그래밍/일일노트/2025-09-22.md",
+                "file": "생활속 인공지능/일일노트/2025-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹프로그래밍/일일노트/2025-09-22.md",
+                "file": "생활속 인공지능/일일노트/2025-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹프로그래밍/일일노트/2025-09-22.md",
+                "file": "생활속 인공지능/일일노트/2025-09-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,8 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbc16b7d6c4a42c6",
+  "active": "a388b5375fa10c68",
   "lastOpenFiles": [
+    "생활속 인공지능/일일노트/2025-09-22.md",
+    "생활속 인공지능/일일노트/일일노트.md",
     "웹프로그래밍/일일노트/2025-09-22.md",
     "웹프로그래밍/일일노트/일일노트.md",
     "웹프로그래밍/일일노트/.md",
