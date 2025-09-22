@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-22.md",
+                "file": "컴퓨터구조/일일노트/2025-09-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8816cc38fd7f805",
+  "active": "c4884e8c3b358e48",
   "lastOpenFiles": [
     "컴퓨터구조/일일노트/2025-09-22.md",
     "스크린샷 2025-09-22 오후 5.24.38.png",
