@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-17.md",
+                "file": "웹프로그래밍/일일노트/2025-09-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-17"
+              "title": "2025-09-22"
             }
           }
         ],
@@ -100,7 +100,7 @@
             }
           },
           {
-            "id": "6c98e26639e486a4",
+            "id": "46f44b5a7cdb2656",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -109,7 +109,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -222,14 +223,16 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:마크다운 형식 불러오기 열기": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a388b5375fa10c68",
+  "active": "cbc16b7d6c4a42c6",
   "lastOpenFiles": [
-    "생활속 인공지능/일일노트/2025-09-10.md",
+    "웹프로그래밍/일일노트/2025-09-22.md",
+    "웹프로그래밍/일일노트/일일노트.md",
+    "웹프로그래밍/일일노트/.md",
     "생활속 인공지능/일일노트/2025-09-17.md",
+    "생활속 인공지능/일일노트/2025-09-10.md",
     "생활속 인공지능/일일노트/2025-09-08.md",
     "웹프로그래밍/일일노트/2025-09-17.md",
     "웹프로그래밍/자바스크립트.md",
