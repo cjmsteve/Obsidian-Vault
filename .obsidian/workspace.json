@@ -11,12 +11,14 @@
             "id": "d1ef529af41b6afd",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "git"
+                "file": "컴퓨터구조/일일노트/2025-09-22.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "2025-09-22"
             }
           }
         ]
@@ -161,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "컴퓨터구조/일일노트/2025-09-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2025-09-22 의 개요"
             }
           },
           {
