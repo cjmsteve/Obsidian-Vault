@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-09-08.md",
+                "file": "웹프로그래밍/일일노트/2025-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-09-08 의 백링크"
+              "title": "2025-09-22 의 백링크"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-09-08.md",
+                "file": "웹프로그래밍/일일노트/2025-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-09-08 의 나가는 링크"
+              "title": "2025-09-22 의 나가는 링크"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-09-08.md",
+                "file": "웹프로그래밍/일일노트/2025-09-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-08 의 개요"
+              "title": "2025-09-22 의 개요"
             }
           },
           {
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
