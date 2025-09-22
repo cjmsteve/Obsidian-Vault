@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "어드벤처디자인/계획서.md",
+                "file": "어드벤처디자인/어드벤처디자인 OT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계획서"
+              "title": "어드벤처디자인 OT"
             }
           }
         ],
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "어드벤처디자인/계획서.md",
+                "file": "어드벤처디자인/어드벤처디자인 OT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "계획서 의 개요"
+              "title": "어드벤처디자인 OT 의 개요"
             }
           },
           {
@@ -227,11 +227,11 @@
   },
   "active": "3666780fed865d3a",
   "lastOpenFiles": [
-    "어드벤처디자인/어드벤처디자인 OT.md",
     "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md",
+    "어드벤처디자인/어드벤처디자인 OT.md",
+    "어드벤처디자인/계획서.md",
     "Excalidraw",
     "운영체제/일일노트/2025-09-09.md",
-    "어드벤처디자인/계획서.md",
     "컴퓨터구조/일일노트/2025-09-22.md",
     "무제.canvas",
     "스크린샷 2025-09-22 오후 5.24.38.png",
