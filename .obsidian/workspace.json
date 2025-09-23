@@ -11,10 +11,14 @@
             "id": "1cb175d918a5adcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "운영체제/일일노트/2025-09-23.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-09-23"
             }
           }
         ]
@@ -209,6 +213,7 @@
   },
   "active": "1cb175d918a5adcd",
   "lastOpenFiles": [
+    "운영체제/일일노트/2025-09-23.md",
     "어드벤처디자인/어드벤처디자인 OT.md",
     "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md",
     "어드벤처디자인/계획서.md",
@@ -255,7 +260,6 @@
     "생활속 인공지능/일일노트",
     "컴퓨터구조",
     "자바 프로그래밍/.md",
-    "생활속 인공지능/무제.canvas",
-    "2025-09-08.md"
+    "생활속 인공지능/무제.canvas"
   ]
 }
