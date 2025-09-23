@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "06f51f0c9fd5735e",
+            "id": "f14b28d8bb63e27f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -177,8 +177,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -213,6 +213,7 @@
   },
   "active": "1cb175d918a5adcd",
   "lastOpenFiles": [
+    "Tags",
     "운영체제/일일노트/2025-09-23.md",
     "컴퓨터구조/일일노트/2025-09-08.md",
     "컴퓨터구조/일일노트/2025-09-22.md",
@@ -259,7 +260,6 @@
     "컴퓨터구조/일일노트",
     "생활속 인공지능/일일노트",
     "컴퓨터구조",
-    "자바 프로그래밍/.md",
     "생활속 인공지능/무제.canvas"
   ]
 }
