@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b70b609db7a3968d",
+        "id": "276e81e1f42c254f",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb175d918a5adcd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-22 18.42.14.excalidraw"
-            }
-          },
-          {
-            "id": "c8de12ab1d193b0a",
+            "id": "b05b0f0bc5214932",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +21,7 @@
               "title": "2025-09-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,13 +211,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c8de12ab1d193b0a",
+  "active": "b05b0f0bc5214932",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.restored.md",
     "생활속 인공지능/일일노트/2025-09-29.md",
+    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md",
     "생활속 인공지능/일일노트/일일노트.md",
     "git/명령어.md",
-    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.restored.md",
-    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md",
     "웹프로그래밍/자바스크립트.md",
     "웹프로그래밍/일일노트/일일노트.md",
     "웹프로그래밍/일일노트/2025-09-22.md",
