@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "명령어",
+      "path": "git/명령어.md"
+    },
+    {
+      "basename": "Drawing 2025-09-22 18.42.14.excalidraw.restored",
+      "path": "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.restored.md"
+    },
+    {
+      "basename": "Drawing 2025-09-22 18.42.14.excalidraw",
+      "path": "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md"
+    },
+    {
       "basename": "자바스크립트",
       "path": "웹프로그래밍/자바스크립트.md"
     },
@@ -37,10 +49,6 @@
       "path": "운영체제/일일노트/2025-09-16.md"
     },
     {
-      "basename": "Drawing 2025-09-22 18.42.14.excalidraw",
-      "path": "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md"
-    },
-    {
       "basename": "어드벤처디자인 OT",
       "path": "어드벤처디자인/어드벤처디자인 OT.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "2025-09-08",
       "path": "생활속 인공지능/일일노트/2025-09-08.md"
-    },
-    {
-      "basename": "명령어",
-      "path": "git/명령어.md"
     },
     {
       "basename": "2025-09-10",

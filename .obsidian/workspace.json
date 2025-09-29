@@ -11,15 +11,28 @@
             "id": "1cb175d918a5adcd",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-22 18.42.14.excalidraw"
+            }
+          },
+          {
+            "id": "c8de12ab1d193b0a",
+            "type": "leaf",
+            "state": {
               "type": "mk-space",
               "state": {
-                "path": "웹프로그래밍"
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "웹프로그래밍"
+              "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             }
           },
           {
-            "id": "06f51f0c9fd5735e",
+            "id": "3a60ec4c00c4c760",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -209,8 +222,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1cb175d918a5adcd",
+  "active": "c8de12ab1d193b0a",
   "lastOpenFiles": [
+    "git/명령어.md",
+    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.restored.md",
+    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md",
     "웹프로그래밍/자바스크립트.md",
     "웹프로그래밍/일일노트/일일노트.md",
     "웹프로그래밍/일일노트/2025-09-22.md",
@@ -220,7 +236,6 @@
     "컴퓨터구조/일일노트/2025-09-22.md",
     "운영체제/일일노트/2025-09-09.md",
     "운영체제/일일노트/2025-09-16.md",
-    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md",
     "어드벤처디자인/어드벤처디자인 OT.md",
     "어드벤처디자인/계획서.md",
     "Excalidraw",
@@ -241,7 +256,6 @@
     "생활속 인공지능/일일노트/2025-09-08.md",
     "웹프로그래밍/일일노트",
     "웹프로그래밍/무제.md",
-    "git/명령어.md",
     "자바 프로그래밍/일일노트/2025-09-10.md",
     "git",
     "자바 프로그래밍/일일노트",
@@ -257,7 +271,6 @@
     "컴퓨터구조/일일노트",
     "생활속 인공지능/일일노트",
     "컴퓨터구조",
-    "자바 프로그래밍/.md",
     "생활속 인공지능/무제.canvas"
   ]
 }
