@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "운영체제 3/일일노트"
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "일일노트"
+              "title": "Obsidian-Vault"
             }
           }
         ]
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "62ffc00160017f76",
+            "id": "c48d14e9842bcbb4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
