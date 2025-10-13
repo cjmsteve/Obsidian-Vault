@@ -37,12 +37,12 @@
             "id": "b1fd3599ffe2c454",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "mk-space",
               "state": {
-                "currentVersion": "1.9.14"
+                "path": "자바 프로그래밍"
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.14"
+              "icon": "lucide-file",
+              "title": "자바 프로그래밍"
             }
           }
         ],
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "092d6ca50f0b7138",
+            "id": "78dd7b0e26404f1f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
