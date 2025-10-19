@@ -122,8 +122,19 @@
               "icon": "lucide-file",
               "title": "일일노트"
             }
+          },
+          {
+            "id": "466e881de2f273cb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -251,7 +262,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f741dd870c6555c",
+  "active": "3a5b321148e95c8d",
   "lastOpenFiles": [
     "생활속 인공지능/일일노트/How I Got Good at Coding Interviews.md",
     "생활속 인공지능/일일노트/2025-10-15.md",
