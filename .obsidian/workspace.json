@@ -11,6 +11,18 @@
             "id": "42a7441b19ee3411",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-03 15.30.25.excalidraw"
+            }
+          },
+          {
+            "id": "b66fb696e1d23018",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "컴퓨터구조/일일노트/2025-11-03.md",
@@ -214,12 +226,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,9 +246,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ad1e8aa3cb94649",
+  "active": "42a7441b19ee3411",
   "lastOpenFiles": [
     "컴퓨터구조/일일노트/2025-11-03.md",
+    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-01 09.42.23.excalidraw.md",
     "컴퓨터구조/일일노트/2025-10-27.md",
     "스크린샷 2025-11-03 오후 3.17.43.png",
     "자바 프로그래밍/일일노트/2025-09-10.md",
@@ -266,7 +279,6 @@
     "운영체제/일일노트/2025-09-16.md",
     "운영체제/운영체제.md",
     "운영체제/일일노트/2025-09-23.md",
-    "생활속 인공지능/일일노트/.md",
     "정보",
     "스크린샷 2025-10-13 오후 4.33.15.png",
     "스크린샷 2025-10-13 오후 3.42.35.png",
