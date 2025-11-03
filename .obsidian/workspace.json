@@ -92,8 +92,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
@@ -104,12 +104,12 @@
               "state": {
                 "path": "운영체제/일일노트"
               },
-              "icon": "lucide-file",
-              "title": "일일노트"
+              "icon": "lucide-ghost",
+              "title": "mk-space"
             }
           },
           {
-            "id": "466e881de2f273cb",
+            "id": "699ba693e91f25a5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -118,7 +118,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,8 +202,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -211,8 +212,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -248,8 +249,9 @@
   },
   "active": "42a7441b19ee3411",
   "lastOpenFiles": [
-    "컴퓨터구조/일일노트/2025-11-03.md",
     "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
+    "Tags",
+    "컴퓨터구조/일일노트/2025-11-03.md",
     "Excalidraw/Drawing 2025-10-01 09.42.23.excalidraw.md",
     "컴퓨터구조/일일노트/2025-10-27.md",
     "스크린샷 2025-11-03 오후 3.17.43.png",
@@ -278,7 +280,6 @@
     "웹프로그래밍/일일노트/2025-10-15.md",
     "운영체제/일일노트/2025-09-16.md",
     "운영체제/운영체제.md",
-    "운영체제/일일노트/2025-09-23.md",
     "정보",
     "스크린샷 2025-10-13 오후 4.33.15.png",
     "스크린샷 2025-10-13 오후 3.42.35.png",
@@ -294,7 +295,6 @@
     "무제.base",
     "사진/스크린샷 2025-09-22 오후 4.31.32.png",
     "사진/스크린샷 2025-09-22 오후 3.38.14.png",
-    "사진",
     "생활속 인공지능/무제.canvas"
   ]
 }
