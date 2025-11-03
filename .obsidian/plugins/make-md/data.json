@@ -59,7 +59,9 @@
     "//Tags",
     "//웹프로그래밍 2",
     "//자바 프로그래밍 2",
-    "//어드벤처디자인 3"
+    "//어드벤처디자인 3",
+    "//컴퓨터구조",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -98,8 +100,8 @@
   "selectedKit": "default",
   "actionMaxSteps": 100,
   "contextPagination": 25,
-  "skipFolderNames": [],
   "skipFolders": [],
+  "skipFolderNames": [],
   "enhancedLogs": false,
   "basics": true,
   "basicsSettings": {
@@ -124,5 +126,8 @@
   "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
-  "onboardingCompleted": false
+  "onboardingCompleted": false,
+  "contextCreateUseModal": false,
+  "homepagePath": "",
+  "mobileMakeHeader": false
 }
