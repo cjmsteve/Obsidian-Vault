@@ -11,18 +11,6 @@
             "id": "42a7441b19ee3411",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-03 15.30.25.excalidraw"
-            }
-          },
-          {
-            "id": "85bd53692892bd4c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "운영체제/일일노트/2025-11-04.md",
@@ -33,8 +21,7 @@
               "title": "2025-11-04"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,13 +235,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85bd53692892bd4c",
+  "active": "42a7441b19ee3411",
   "lastOpenFiles": [
-    "운영체제/일일노트/2025-10-21.md",
+    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
     "운영체제/일일노트/2025-11-04.md",
+    "운영체제/일일노트/2025-10-21.md",
     "운영체제/운영체제.md",
     "컴퓨터구조/일일노트/2025-11-03.md",
-    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
     "Tags",
     "Excalidraw/Drawing 2025-10-01 09.42.23.excalidraw.md",
     "컴퓨터구조/일일노트/2025-10-27.md",
