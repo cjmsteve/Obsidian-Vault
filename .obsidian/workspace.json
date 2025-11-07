@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-11-03.md",
+                "file": "컴퓨터구조/일일노트/중간 레포트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03"
+              "title": "중간 레포트"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-11-03.md",
+                "file": "컴퓨터구조/일일노트/중간 레포트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-03 의 개요"
+              "title": "중간 레포트 의 개요"
             }
           },
           {
@@ -187,11 +187,17 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "42a7441b19ee3411",
   "lastOpenFiles": [
+    "컴퓨터구조/일일노트/2025-10-27.md",
+    "컴퓨터구조/일일노트/2025-10-13.md",
+    "생활속 인공지능/일일노트/2025-11-03.md",
     "생활속 인공지능/일일노트/2025-09-10.md",
     "운영체제/일일노트/2025-11-04.md",
     "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
@@ -200,11 +206,9 @@
     "컴퓨터구조/일일노트/2025-11-03.md",
     "Tags",
     "Excalidraw/Drawing 2025-10-01 09.42.23.excalidraw.md",
-    "컴퓨터구조/일일노트/2025-10-27.md",
     "스크린샷 2025-11-03 오후 3.17.43.png",
     "자바 프로그래밍/일일노트/2025-09-10.md",
     "git/명령어.md",
-    "생활속 인공지능/일일노트/2025-11-03.md",
     "생활속 인공지능/일일노트/2025-10-29.md",
     "생활속 인공지능/일일노트/2025-10-22.md",
     "생활속 인공지능/일일노트/How I Got Good at Coding Interviews.md",
@@ -217,7 +221,6 @@
     "스크린샷 2025-10-27 오후 5.22.14.png",
     "컴퓨터구조/일일노트/중간 레포트.md",
     "스크린샷 2025-10-27 오후 4.16.49.png",
-    "컴퓨터구조/일일노트/2025-10-13.md",
     "생활속 인공지능/일일노트/2025-09-08.md",
     "생활속 인공지능/일일노트/2025-09-17.md",
     "생활속 인공지능/일일노트/2025-09-29.md",
