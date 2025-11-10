@@ -11,12 +11,14 @@
             "id": "42a7441b19ee3411",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md"
+                "file": "컴퓨터구조/일일노트/2025-11-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-03 15.30.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-11-03"
             }
           }
         ]
@@ -151,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
+                "file": "컴퓨터구조/일일노트/2025-11-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-11-03 15.30.25.excalidraw 의 개요"
+              "title": "2025-11-03 의 개요"
             }
           },
           {
@@ -193,9 +195,9 @@
   },
   "active": "42a7441b19ee3411",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
     "컴퓨터구조/일일노트/2025-11-10.md",
     "Excalidraw/Drawing 2025-11-10 16.12.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
     "컴퓨터구조/일일노트/2025-11-03.md",
     "컴퓨터구조/일일노트/2025-10-27.md",
     "스크린샷 2025-11-10 오후 3.29.28.png",
