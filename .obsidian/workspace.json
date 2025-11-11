@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-22.md",
+                "file": "운영체제/일일노트/2025-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-09-22 의 백링크"
+              "title": "2025-11-11 의 백링크"
             }
           },
           {
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-09-22.md",
+                "file": "운영체제/일일노트/2025-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-09-22 의 나가는 링크"
+              "title": "2025-11-11 의 나가는 링크"
             }
           },
           {
@@ -140,7 +139,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -173,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42a7441b19ee3411",
+  "active": "d6c97478562e52a4",
   "lastOpenFiles": [
     "컴퓨터구조/일일노트/2025-11-10.md",
     "운영체제/일일노트/2025-11-11.md",
