@@ -11,14 +11,12 @@
             "id": "42a7441b19ee3411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-11-17.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-11-17 15.57.54.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "2025-11-17"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-17 15.57.54.excalidraw"
             }
           },
           {
@@ -165,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-11-17.md",
+                "file": "Excalidraw/Drawing 2025-11-17 15.57.54.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-17 의 개요"
+              "title": "Drawing 2025-11-17 15.57.54.excalidraw 의 개요"
             }
           },
           {
@@ -207,12 +205,13 @@
   },
   "active": "42a7441b19ee3411",
   "lastOpenFiles": [
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2025-11-17 15.57.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
+    "컴퓨터구조/일일노트/2025-11-17.md",
     "스크린샷 2025-11-17 오후 4.35.32.png",
     "스크린샷 2025-11-17 오후 4.16.21 1.png",
     "스크린샷 2025-11-17 오후 4.16.21.png",
-    "Excalidraw/Drawing 2025-11-17 15.57.54.excalidraw.md",
-    "컴퓨터구조/일일노트/2025-11-17.md",
-    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.restored.md",
     "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.md",
     "스크린샷 2025-11-17 오후 3.53.40.png",
@@ -236,7 +235,6 @@
     "컴퓨터구조/일일노트/2025-11-03.md",
     "Excalidraw/Drawing 2025-11-10 16.12.32.excalidraw.md",
     "컴퓨터구조/일일노트/2025-10-27.md",
-    "screenshot/스크린샷 2025-11-10 오후 3.29.28.png",
     "컴퓨터구조/일일노트/중간 레포트.md",
     "컴퓨터구조/일일노트/2025-10-13.md",
     "생활속 인공지능/일일노트/2025-09-10.md",
