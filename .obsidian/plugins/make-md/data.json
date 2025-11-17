@@ -61,7 +61,8 @@
     "//어드벤처디자인 3",
     "//컴퓨터구조",
     "/",
-    "//정보"
+    "//정보",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
