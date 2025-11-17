@@ -38,7 +38,6 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//etc.",
     "//웹프로그래밍/웹프로그래밍/2025-09-22",
     "//생활속 인공지능/생활속 인공지능/일일노트",
@@ -61,8 +60,8 @@
     "//자바 프로그래밍 2",
     "//어드벤처디자인 3",
     "//컴퓨터구조",
-    "//Excalidraw",
-    "//운영체제"
+    "/",
+    "//정보"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
