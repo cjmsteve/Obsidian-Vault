@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-10-27.md",
+                "file": "컴퓨터구조/일일노트/2025-12-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27"
+              "title": "2025-12-01"
             }
           }
         ]
@@ -153,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "컴퓨터구조/일일노트/2025-12-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2025-12-01 의 개요"
             }
           },
           {
@@ -202,11 +203,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bba0f82e3df2707",
+  "active": "75bc4cb4eaf9eba4",
   "lastOpenFiles": [
     "컴퓨터구조/일일노트/2025-10-27.md",
-    "생활속 인공지능/일일노트/2025-12-08.md",
+    "컴퓨터구조/일일노트/2025-11-03.md",
+    "컴퓨터구조/일일노트/2025-11-10.md",
+    "컴퓨터구조/일일노트/2025-11-17.md",
     "컴퓨터구조/일일노트/2025-12-01.md",
+    "생활속 인공지능/일일노트/2025-12-08.md",
     "컴퓨터구조/일일노트/2025-09-08.md",
     "운영체제/일일노트/2025-09-16.md",
     "운영체제/일일노트/2025-10-21.md",
@@ -221,7 +225,6 @@
     "생활속 인공지능/일일노트/2025-11-26.md",
     "생활속 인공지능/일일노트/2025-11-24.md",
     "생활속 인공지능/일일노트/무제 1.md",
-    "컴퓨터구조/일일노트/2025-11-17.md",
     "Excalidraw/Drawing 2025-11-17 15.57.54.excalidraw.md",
     "운영체제/Untitled.md",
     "생활속 인공지능/일일노트/2025-10-29.md",
@@ -230,8 +233,6 @@
     "생활속 인공지능/일일노트/2025-09-10.md",
     "생활속 인공지능/일일노트/How I Got Good at Coding Interviews.md",
     "스크린샷 2025-11-17 오후 5.29.17.png",
-    "Excalidraw/Drawing 2025-11-03 15.30.25.excalidraw.md",
-    "Excalidraw/Untitled.md",
     "스크린샷 2025-11-17 오후 4.35.32.png",
     "스크린샷 2025-11-17 오후 4.16.21 1.png",
     "스크린샷 2025-11-17 오후 4.16.21.png",
