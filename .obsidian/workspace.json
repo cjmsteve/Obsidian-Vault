@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-12-08.md",
+                "file": "컴퓨터구조/일일노트/2025-10-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-08"
+              "title": "2025-10-27"
             }
           }
         ]
@@ -153,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생활속 인공지능/일일노트/2025-12-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-08 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -203,8 +202,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75bc4cb4eaf9eba4",
+  "active": "1bba0f82e3df2707",
   "lastOpenFiles": [
+    "컴퓨터구조/일일노트/2025-10-27.md",
     "생활속 인공지능/일일노트/2025-12-08.md",
     "컴퓨터구조/일일노트/2025-12-01.md",
     "컴퓨터구조/일일노트/2025-09-08.md",
@@ -235,7 +235,6 @@
     "스크린샷 2025-11-17 오후 4.35.32.png",
     "스크린샷 2025-11-17 오후 4.16.21 1.png",
     "스크린샷 2025-11-17 오후 4.16.21.png",
-    "Excalidraw/Drawing 2025-09-22 18.42.14.excalidraw.restored.md",
     "스크린샷 2025-11-17 오후 3.53.40.png",
     "screenshot/스크린샷 2025-10-13 오후 3.23.48.png",
     "screenshot/스크린샷 2025-11-10 오후 5.27.59 1.png",
