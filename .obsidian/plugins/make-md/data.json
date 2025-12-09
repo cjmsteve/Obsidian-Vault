@@ -62,8 +62,7 @@
     "/",
     "//정보",
     "//Excalidraw",
-    "//운영체제",
-    "//컴퓨터구조"
+    "//운영체제"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
