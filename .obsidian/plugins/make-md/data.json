@@ -62,7 +62,9 @@
     "/",
     "//정보",
     "//Excalidraw",
-    "//운영체제"
+    "//운영체제",
+    "//자바 프로그래밍",
+    "//자바 프로그래밍/자바 프로그래밍/일일노트"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
