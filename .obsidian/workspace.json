@@ -39,16 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-11-03.md",
+                "file": "컴퓨터구조/일일노트/2025-11-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03"
+              "title": "2025-11-10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-11-03.md",
+                "file": "컴퓨터구조/일일노트/기말.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-03 의 개요"
+              "title": "기말 의 개요"
             }
           },
           {
@@ -230,8 +229,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c23699241c7bee51",
+  "active": "75bc4cb4eaf9eba4",
   "lastOpenFiles": [
+    "컴퓨터구조/일일노트/2025-11-10.md",
+    "컴퓨터구조/일일노트/2025-11-03.md",
     "컴퓨터구조/일일노트/2025-10-27.md",
     "컴퓨터구조/일일노트/기말.md",
     "Pasted image 20251215150647.png",
@@ -266,8 +267,6 @@
     "생활속 인공지능/일일노트/2025-10-22.md",
     "운영체제/일일노트/2025-10-21.md",
     "운영체제/일일노트/2025-10-14.md",
-    "운영체제/일일노트/2025-09-16.md",
-    "운영체제/일일노트/2025-09-23.md",
     "screenshot",
     "Tags",
     "정보",
