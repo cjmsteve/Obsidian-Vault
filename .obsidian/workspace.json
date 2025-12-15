@@ -33,7 +33,8 @@
               "title": "인공지능 기말대비.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제/일일노트/기말.md",
+                "file": "생활속 인공지능/인공지능 기말대비.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기말 의 개요"
+              "title": "인공지능 기말대비.excalidraw 의 개요"
             }
           },
           {
@@ -216,8 +217,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75bc4cb4eaf9eba4",
+  "active": "b4e4041c151d04bb",
   "lastOpenFiles": [
+    "운영체제/일일노트/기말.md",
     "생활속 인공지능/일일노트/기말.md",
     "생활속 인공지능/인공지능 기말대비.excalidraw.md",
     "스크린샷 2025-12-13 오후 6.39.50.png",
@@ -236,7 +238,6 @@
     "운영체제/일일노트/2025-11-04.md",
     "운영체제/일일노트/2025-12-10.md",
     "운영체제/일일노트/2025-12-09.md",
-    "운영체제/일일노트/기말.md",
     "생활속 인공지능/일일노트/How I Got Good at Coding Interviews.md",
     "생활속 인공지능/일일노트/2025-09-08.md",
     "생활속 인공지능/일일노트/2025-09-10.md",
