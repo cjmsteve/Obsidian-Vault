@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d0f903d1403faf6d",
@@ -215,7 +216,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6c97478562e52a4",
+  "active": "75bc4cb4eaf9eba4",
   "lastOpenFiles": [
     "생활속 인공지능/일일노트/기말.md",
     "생활속 인공지능/인공지능 기말대비.excalidraw.md",
