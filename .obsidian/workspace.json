@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제/일일노트/기말.md",
+                "file": "컴퓨터구조/일일노트/기말.md",
                 "mode": "source",
                 "source": false
               },
@@ -33,8 +33,7 @@
               "title": "인공지능 기말대비.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d0f903d1403faf6d",
@@ -166,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생활속 인공지능/인공지능 기말대비.excalidraw.md",
+                "file": "컴퓨터구조/일일노트/기말.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "인공지능 기말대비.excalidraw 의 개요"
+              "title": "기말 의 개요"
             }
           },
           {
@@ -217,11 +215,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4e4041c151d04bb",
+  "active": "75bc4cb4eaf9eba4",
   "lastOpenFiles": [
     "운영체제/일일노트/기말.md",
-    "생활속 인공지능/일일노트/기말.md",
+    "컴퓨터구조/일일노트/기말.md",
     "생활속 인공지능/인공지능 기말대비.excalidraw.md",
+    "생활속 인공지능/일일노트/기말.md",
     "스크린샷 2025-12-13 오후 6.39.50.png",
     "스크린샷 2025-12-13 오후 6.39.48.png",
     "스크린샷 2025-12-13 오후 6.39.27.png",
