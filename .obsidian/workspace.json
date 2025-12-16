@@ -11,13 +11,14 @@
             "id": "b4e4041c151d04bb",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "자격증/무제.base",
-                "viewName": "뷰"
+                "file": "학교/운영체제/일일노트/2025-09-16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "무제"
+              "icon": "lucide-file",
+              "title": "2025-09-16"
             }
           }
         ]
@@ -151,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자격증/무제.base",
+                "file": "학교/운영체제/일일노트/2025-09-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "2025-09-16 의 개요"
             }
           },
           {
@@ -214,9 +215,9 @@
   },
   "active": "b4e4041c151d04bb",
   "lastOpenFiles": [
+    "자격증/무제.base",
     "무제.md",
     "학교/운영체제/일일노트/2025-09-16.md",
-    "자격증/무제.base",
     "git/명령어.md",
     "자격증/SQLD",
     "자격증/리눅스마스터",
@@ -256,7 +257,6 @@
     "학교/생활속 인공지능/일일노트/2025-10-01.md",
     "학교/생활속 인공지능/일일노트/2025-12-08.md",
     "학교/생활속 인공지능/일일노트/2025-11-24.md",
-    "학교/생활속 인공지능/일일노트/2025-11-03.md",
     "screenshot",
     "Tags",
     "정보",
