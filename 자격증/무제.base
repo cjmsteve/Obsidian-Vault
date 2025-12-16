@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: 표
+    sort: []
+  - type: cards
+    name: 뷰
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.embeds
+      - file.ext
+      - file.folder
+      - file.links
+      - file.fullname
+      - file.mtime
+      - file.path
+      - file.size
+      - file.tags
+      - excalidraw-plugin
+      - tags
