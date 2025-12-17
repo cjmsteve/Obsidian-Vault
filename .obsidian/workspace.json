@@ -32,19 +32,9 @@
               "icon": "excalidraw-icon",
               "title": "인공지능 기말대비.excalidraw"
             }
-          },
-          {
-            "id": "fe309f4ff7f9fea0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "학교/생활속 인공지능/인공지능 기말대비.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "인공지능 기말대비.excalidraw 의 개요"
             }
           },
           {
@@ -236,7 +227,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe309f4ff7f9fea0",
+  "active": "aea586fa9a37f184",
   "lastOpenFiles": [
     "학교/생활속 인공지능/인공지능 기말대비.excalidraw.md",
     "학교/생활속 인공지능/일일노트/기말.md",
