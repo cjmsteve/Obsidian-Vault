@@ -55,7 +55,6 @@
     "//컴퓨터구조 3",
     "//컴퓨터구조 3/컴퓨터구조 3/일일노트",
     "//컴퓨터구조 2/컴퓨터구조 2/일일노트",
-    "//Tags",
     "//웹프로그래밍 2",
     "//자바 프로그래밍 2",
     "//어드벤처디자인 3",
@@ -66,7 +65,6 @@
     "//학교/학교/생활속 인공지능/학교/생활속 인공지능/일일노트",
     "//학교",
     "//학교/학교/3-2",
-    "//Notion",
     "//Notion/Notion/개인 홈",
     "//Notion/Notion/작업 목록",
     "//Notion/Notion/Uni Notes/Notion/Uni Notes/제목 없음",
@@ -76,8 +74,10 @@
     "//Notion/Notion/People",
     "//Notion/Notion/Uni Notes",
     "//Notion/Notion/Uni Notes/Notion/Uni Notes/제목 없음/Notion/Uni Notes/제목 없음/기계학습 - J5414",
+    "//Notion/Notion/Uni Notes/Notion/Uni Notes/제목 없음/Notion/Uni Notes/제목 없음/4차산업혁명 - J2108/Notion/Uni Notes/제목 없음/4차산업혁명 - J2108/제목 없음",
     "//Notion/Notion/Uni Notes/Notion/Uni Notes/제목 없음/Notion/Uni Notes/제목 없음/4차산업혁명 - J2108",
-    "//Notion/Notion/Uni Notes/Notion/Uni Notes/제목 없음/Notion/Uni Notes/제목 없음/4차산업혁명 - J2108/Notion/Uni Notes/제목 없음/4차산업혁명 - J2108/제목 없음"
+    "//Tags",
+    "//git"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

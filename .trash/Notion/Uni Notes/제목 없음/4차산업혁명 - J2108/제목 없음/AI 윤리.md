@@ -1,0 +1,5 @@
+---
+Status: Not started
+Type: Lecture
+Week: Week 7
+---

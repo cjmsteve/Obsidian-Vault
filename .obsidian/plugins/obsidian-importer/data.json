@@ -9,7 +9,7 @@
         "path": ""
       },
       "duplicates": "update",
-      "saveSourceId": true,
+      "saveSourceId": false,
       "idProperty": "notion-id",
       "template": "",
       "titleTemplate": "{{title}}"
