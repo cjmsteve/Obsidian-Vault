@@ -11,14 +11,14 @@
             "id": "29826b41530abfab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "학교/3-2/서양의역사와문화/미국건국.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "미국건국"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 352.203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +220,8 @@
   },
   "active": "29826b41530abfab",
   "lastOpenFiles": [
-    "학교/3-2/서양의역사와문화/09.09.md",
     "학교/3-2/서양의역사와문화/미국건국.md",
+    "학교/3-2/서양의역사와문화/09.09.md",
     "학교/3-2/소프트웨어공학/09.09.md",
     "학교/3-2/소프트웨어공학/09.07.md",
     "학교/3-1/네트워크/네트워크.md",
