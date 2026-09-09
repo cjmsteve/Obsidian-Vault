@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "61603723f6a9c4f4",
+            "id": "57cc7895fed8e408",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터구조/일일노트/2025-11-17.md",
+                "file": "학교/3-2/서양의역사와문화/미국건국.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-17 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/일일노트/2025-11-25.md",
+                "file": "학교/3-2/서양의역사와문화/미국건국.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-25 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -158,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "학교/3-2/서양의역사와문화/미국건국.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,8 +173,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -187,7 +188,7 @@
             }
           },
           {
-            "id": "fd21baeb92331d49",
+            "id": "107362c2486e91ee",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -197,11 +198,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,14 +215,15 @@
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:노트 가져오기": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "29826b41530abfab",
   "lastOpenFiles": [
-    "학교/3-2/서양의역사와문화/09.09.md",
+    "().md",
     "학교/3-2/서양의역사와문화/미국건국.md",
+    "Tags",
+    "학교/3-2/서양의역사와문화/09.09.md",
     "학교/3-2/소프트웨어공학/09.09.md",
     "학교/3-2/소프트웨어공학/09.07.md",
     "학교/3-1/네트워크/네트워크.md",
@@ -240,7 +242,6 @@
     "학교/3-1/알고리즘/3주차.md",
     "학교/3-1/알고리즘/2주차.md",
     "학교/3-1/알고리즘/1주차.md",
-    "().md",
     "학교/3-1/알고리즘",
     "학교/3-1/4차산업혁명/4차산업정리.md",
     "학교/3-1/4차산업혁명/OT.md",
@@ -249,7 +250,6 @@
     "학교/3-1/4차산업혁명/인류사 3.md",
     "학교/3-1/4차산업혁명/인류사 2.md",
     "학교/3-1/4차산업혁명/인류사.md",
-    "학교/3-1/4차산업혁명/4차산업혁명.md",
     "학교/3-1/4차산업혁명",
     "학교/3-1/데이터베이스",
     "학교/3-2/소프트웨어공학/9",
@@ -257,7 +257,6 @@
     "학교/3-2/소프트웨어공학",
     "image.png",
     "학교/3-1",
-    "학교/3-2",
     "screenshot/스크린샷 2025-09-08 오후 3.59.42.png",
     "screenshot/스크린샷 2025-09-29 오후 4.46.38.png",
     "screenshot/Pasted image 20251215150647.png",
