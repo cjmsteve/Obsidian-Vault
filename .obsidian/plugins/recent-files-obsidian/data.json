@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "학교/3-1/네트워크/Untitled.md"
+      "basename": "네트워크",
+      "path": "학교/3-1/네트워크/네트워크.md"
+    },
+    {
+      "basename": "screenshot",
+      "path": "screenshot/screenshot.md"
     },
     {
       "basename": "기계학습",
@@ -123,10 +127,6 @@
     {
       "basename": "명령어",
       "path": "git/명령어.md"
-    },
-    {
-      "basename": "screenshot",
-      "path": "screenshot/screenshot.md"
     },
     {
       "basename": "2022년 12월 01일",
