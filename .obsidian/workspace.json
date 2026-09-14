@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/일일노트/2025-11-25.md",
+                "file": "학교/3-2/소프트웨어공학/09.14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-25 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -171,6 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "학교/3-2/소프트웨어공학/09.14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +186,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -230,7 +231,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f68a5c92c9262cd",
+  "active": "fd21baeb92331d49",
   "lastOpenFiles": [
     "학교/3-2/소프트웨어공학/09.14.md",
     "학교/3-2/소프트웨어공학/09.09.md",
