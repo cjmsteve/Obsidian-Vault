@@ -32,23 +32,9 @@
               "icon": "lucide-file",
               "title": "09.14"
             }
-          },
-          {
-            "id": "3357d2a9874891ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,10 +230,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3357d2a9874891ee",
+  "active": "3f68a5c92c9262cd",
   "lastOpenFiles": [
-    "학교/3-2/소프트웨어공학/09.14.md",
     "conflict-files-obsidian-git.md",
+    "학교/3-2/소프트웨어공학/09.14.md",
     "학교/3-2/소프트웨어공학/소프트웨어공학.md",
     "학교/3-2/소프트웨어공학/09.09.md",
     "학교/3-2/소프트웨어공학/09.07.md",
