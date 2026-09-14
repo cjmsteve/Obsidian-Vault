@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "077c3de7d1d55910",
+        "id": "bb4cdf4f79cab690",
         "type": "tabs",
         "children": [
           {
-            "id": "29826b41530abfab",
+            "id": "8d81e92cf8b769c1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "mk-space",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "path": "학교/3-2/소프트웨어공학"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "소프트웨어공학"
+            }
+          },
+          {
+            "id": "3f68a5c92c9262cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학교/3-2/소프트웨어공학/09.14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.14"
+            }
+          },
+          {
+            "id": "3357d2a9874891ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +107,7 @@
             }
           },
           {
-            "id": "61603723f6a9c4f4",
+            "id": "a181c57661624104",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -214,16 +241,18 @@
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:노트 가져오기": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29826b41530abfab",
+  "active": "3357d2a9874891ee",
   "lastOpenFiles": [
-    "학교/3-2/서양의역사와문화/미국건국.md",
-    "학교/3-2/서양의역사와문화/09.09.md",
+    "학교/3-2/소프트웨어공학/09.14.md",
+    "conflict-files-obsidian-git.md",
+    "학교/3-2/소프트웨어공학/소프트웨어공학.md",
     "학교/3-2/소프트웨어공학/09.09.md",
     "학교/3-2/소프트웨어공학/09.07.md",
+    "학교/3-2/서양의역사와문화/미국건국.md",
+    "학교/3-2/서양의역사와문화/09.09.md",
     "학교/3-1/네트워크/네트워크.md",
     "screenshot/screenshot.md",
     "Vault.md",
@@ -247,9 +276,6 @@
     "학교/3-1/4차산업혁명/인류사 4.md",
     "학교/3-1/4차산업혁명/인류사 5.1.md",
     "학교/3-1/4차산업혁명/인류사 3.md",
-    "학교/3-1/4차산업혁명/인류사 2.md",
-    "학교/3-1/4차산업혁명/인류사.md",
-    "학교/3-1/4차산업혁명/4차산업혁명.md",
     "학교/3-1/4차산업혁명",
     "학교/3-1/데이터베이스",
     "학교/3-2/소프트웨어공학/9",
