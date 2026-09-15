@@ -33,8 +33,7 @@
               "title": "3장_게임트리"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학교/3-2/인공지능/3장_게임트리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +169,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학교/3-2/인공지능/3장_게임트리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -231,10 +228,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f68a5c92c9262cd",
+  "active": "8d81e92cf8b769c1",
   "lastOpenFiles": [
-    "학교/3-2/서양의역사와문화/서양의역사와문화.md",
     "학교/3-2/인공지능/3장_게임트리.md",
+    "학교/3-2/서양의역사와문화/서양의역사와문화.md",
     "학교/3-2/인공지능/인공지능.md",
     "학교/3-2/서양의역사와문화/미국건국.md",
     "학교/3-2/인공지능",
