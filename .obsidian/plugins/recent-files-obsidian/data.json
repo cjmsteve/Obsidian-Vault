@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10.07",
+      "path": "학교/3-2/소프트웨어공학/10.07.md"
+    },
+    {
       "basename": "09.30",
       "path": "학교/3-2/소프트웨어공학/09.30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20251215150647",
       "path": "screenshot/Pasted image 20251215150647.png"
-    },
-    {
-      "basename": "스크린샷 2025-11-17 오후 3.53.40",
-      "path": "screenshot/스크린샷 2025-11-17 오후 3.53.40.png"
     }
   ],
   "omittedPaths": [],
