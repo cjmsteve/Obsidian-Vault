@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10.21",
+      "path": "학교/3-2/소프트웨어공학/10.21.md"
+    },
+    {
       "basename": "10.19",
       "path": "학교/3-2/소프트웨어공학/10.19.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "인공지능 기말대비.excalidraw",
       "path": "학교/2-2/생활속 인공지능/인공지능 기말대비.excalidraw.md"
-    },
-    {
-      "basename": "스크린샷 2025-09-08 오후 3.59.42",
-      "path": "screenshot/스크린샷 2025-09-08 오후 3.59.42.png"
     }
   ],
   "omittedPaths": [],
