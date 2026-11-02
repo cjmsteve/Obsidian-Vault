@@ -5,6 +5,30 @@
       "path": "학교/3-2/소프트웨어공학/CH10_테스트 .md"
     },
     {
+      "basename": "112 임시 메모",
+      "path": "112 임시 메모.md"
+    },
+    {
+      "basename": "소프트웨어공학",
+      "path": "학교/3-2/소프트웨어공학/소프트웨어공학.md"
+    },
+    {
+      "basename": "Vault",
+      "path": "Vault.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Pasted image 20260928093125",
+      "path": "Pasted image 20260928093125.png"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "09.09",
       "path": "학교/3-2/소프트웨어공학/09.09.md"
     },
@@ -13,16 +37,8 @@
       "path": "학교/3-2/소프트웨어공학/09.07.md"
     },
     {
-      "basename": "과제",
-      "path": "학교/3-2/소프트웨어공학/과제.md"
-    },
-    {
       "basename": "학교",
       "path": "학교/학교.md"
-    },
-    {
-      "basename": "소프트웨어공학",
-      "path": "학교/3-2/소프트웨어공학/소프트웨어공학.md"
     },
     {
       "basename": "미국건국",
@@ -55,14 +71,6 @@
     {
       "basename": "5장_지식표현",
       "path": "학교/3-2/인공지능/5장_지식표현.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
     },
     {
       "basename": "10.07",
@@ -191,14 +199,6 @@
     {
       "basename": "Drawing 2025-11-17 15.57.54.excalidraw",
       "path": "Excalidraw/Drawing 2025-11-17 15.57.54.excalidraw.md"
-    },
-    {
-      "basename": "명령어",
-      "path": "git/명령어.md"
-    },
-    {
-      "basename": "2022년 12월 01일",
-      "path": "정보/2022년 12월 01일.md"
     }
   ],
   "omittedPaths": [],
